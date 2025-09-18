@@ -1,0 +1,28 @@
+Hoja de trabajo-informe 3
+IntegrantesSimón Aldana  Johan Peña Darien Palacios Mateo Muñoz
+Enlace a repositorio de Github :
+
+1.	Configuración del proyecto
+-	Microcontrolador usado: Arduino UNO.
+-	Sensor inicial: Sensor de pH para agua.
+-	Conexión: Montaje en protoboard con cables Dupont.
+-	Software: Arduino IDE para la programación, monitor serial para las lecturas.
+2.	Procedimiento
+-	Se conectó el sensor de pH al Arduino (VCC a 5V, GND a GND, salida analógica a pin A0).
+-	Se cargó un código de prueba en Arduino IDE para leer valores analógicos del sensor.
+-	Se prepararon diferentes muestras de agua (neutra, ácida y básica) para comparar lecturas.
+-	Se visualizaron los resultados en el monitor serial.
+-	Se tomaron capturas de pantalla de las lecturas y fotos del montaje en protoboard.
+3.	Resultados
+Tabla 1. Lecturas iniciales del sensor de pH:
+Aun no hay lecturas ya q aun no lo ehmos conseguido
+
+
+4.	Evidencias
+  
+Link de video del funcionamiento de la aplicación y el prototipo:WhatsApp Video 2025-09-17 at 10.43.51 PM.mp4
+
+5.	Conclusiones
+•	La práctica permitió afianzar conocimientos sobre la configuración de pines analógicos, la visualización de datos en el monitor serial y la importancia de registrar las pruebas en tablas para validar los resultados.
+•	Aunque se probó únicamente el modulo bluetooth, este avance representa un paso importante dentro del proyecto, ya que asegura que el sistema puede empezar a integrar mediciones reales que en fases posteriores se complementarán con otros sensores y con la comunicación Bluetooth.
+•	Finalmente, el montaje y las pruebas iniciales también ayudaron a identificar la necesidad de documentar todo el proceso con evidencias (fotos, capturas y repositorio en GitHub), lo cual fortalece la presentación técnica del proyecto y la claridad del trabajo colaborativo del grupo.
